@@ -1,10 +1,6 @@
-# ![](/assets/Logo Habitat SPA.jpg)MANUAL DE SGIT
+# MANUAL DE SGIT
 
-El presente Manual tiene como finalidad poder servir de apoyo a las personas que van a usar el sistema SGIT de Hábitat para la Humanidad.
-
-![](/assets/home-ngcatastro.jpg)
-
-## Introducción
+El presente Manual tiene como finalidad poder servir de apoyo a las personas que van a usar el sistema SGIT de Hábitat para la Humanidad.![](/assets/Logo Habitat SPA.jpg)Introducción
 
 Los procedimientos de regularización de la propiedad en los países latinoamericanos, siempre han estado incluidos dentro de las políticas de gobierno.
 
@@ -14,9 +10,19 @@ En este sentido, y fin de lograr un seguimiento eficiente y eficaz de los proced
 
 ## Sobre SGIT - Sistema de Gestión de Información Territorial
 
-Este sistema de mapas es el resultado del trabajo de levantamiento de información, análisis técnico legal y social, realizado por Hábitat para la Humanidad Internacional, equipo de la Oficina de Área América Latina y Caribe, y consultores técnicos internacionales.
+Este sistema de mapas es el resultado del trabajo de levantamiento de información, análisis técnico legal y social, realizado por Hábitat para la Humanidad Internacional, equipo de la Oficina de Área América Latina y Caribe, y consultores técnicos internacionales.  
+  
+![](/assets/home-ngcatastro.jpg)
 
+![](/assets/home-ngcatastro.jpg)
 
+![](/assets/home-ngcatastro.jpg)
+
+![](/assets/home-ngcatastro.jpg)
+
+![](/assets/home-ngcatastro.jpg)
+
+![](/assets/home-ngcatastro.jpg)
 
 
 
