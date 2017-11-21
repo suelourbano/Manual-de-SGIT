@@ -6,5 +6,5 @@
   * [Proceso 0 - Diagnóstico](capitulo-2/proceso0.md)
   * [Proceso 1 - Saneamiento técnico legal](capitulo-2/proceso-1.md)
   * [Proceso 2 - Regularización de casos individuales](capitulo-2/proceso-2.md)
-  * Proceso 3
+  * [Proceso 3 - Gestión ante las entidades de regularización y registro del derecho propietario](capitulo-2/proceso-3-gestion-ante-las-entidades-de-regularizacion-y-registro-del-derecho-propietario.md)
 
